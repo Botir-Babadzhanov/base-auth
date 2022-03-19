@@ -1,0 +1,33 @@
+.signin-container{
+    background-color: #fff;
+    border: 1px #000000;
+    box-shadow: 0 0 5px 2px #F1EDEC;
+    border-radius: 10px;
+    position: absolute;
+    width: 390px;
+    height: 200px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 0 10px 0 10px;
+}
+
+.signin-container_title{
+    font-size: 30px;
+    margin: 10px ;
+    padding: 10px;
+    font-family: Georgia, serif;}
+
+.signin-container_describe{
+    font-size: 15px;
+    margin: 5px;
+    padding: 5px;
+    font-family: Georgia, serif;
+}
+
+.signin-container_email{
+    font-size: 15px;
+    margin: 5px;
+    padding: 5px;
+    font-family: Georgia, serif;
+}

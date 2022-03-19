@@ -1,0 +1,9 @@
+.input {
+    display:block;
+    width:100%;
+    margin:10px 0;
+    padding:10px;
+    border: 1px solid #EEE8E7;
+    border-radius:10px;
+    transition: .3s border-color;
+}
